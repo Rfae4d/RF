@@ -1,4 +1,4 @@
-name: RATA
+name: RF
 
 on:
   workflow_dispatch:
